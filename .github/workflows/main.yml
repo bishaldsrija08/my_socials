@@ -15,6 +15,6 @@ jobs:
         - name: 📂 Sync files
           uses: SamKirkland/FTP-Deploy-Action@4.3.2
           with:
-            server:  ftp.bishalrijal.info.np
+            server:  198.251.89.34
             username: githubmarathon@bishalrijal.info.np
             password: uaNF73^NdrzH
